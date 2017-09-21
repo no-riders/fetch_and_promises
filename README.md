@@ -4,7 +4,7 @@ Experimenting with fetch() API
 
 Inside <code>js/main.js</code> my practice with fetch() API, including: 
 
--check if browser supports fetch()
+-check if browser supports fetch() <br>
 -validating response
 -reading(converting responses) using fetch() methods eg .json(), .blob(), .text()
 -displaying or interacting with responses
