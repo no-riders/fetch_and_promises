@@ -8,6 +8,7 @@ Inside <code>js/main.js</code> my practice with <code>fetch()</code> API, includ
 -validating response <br>
 -reading(converting responses) using <code>fetch()</code> methods eg <code>.json()</code>, <code>.blob()</code>, <code>.text()</code> <br>
 -displaying or interacting with responses <br>
+-chaining promises <br>
 -error handling <br>
 
 Also, POST requests, FormData interface, Headers, modifying headers, CORS and custom Headers
